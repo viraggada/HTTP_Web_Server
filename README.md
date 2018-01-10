@@ -1,9 +1,5 @@
 # ECEN 5273: Network Systems: Programming Assignment 2 #
 
-Author: Virag Gada
-
-Date: 10/22/2017
-
 Goal: To create a HTTP webserver that handles multiple simultaneous requests from users.
 
 Programming Language - C
